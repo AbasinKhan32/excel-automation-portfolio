@@ -1,0 +1,25 @@
+1. Read Excel file
+        ↓
+2. Explore the data
+        ↓
+3. Check column names
+        ↓
+4. Check data types
+        ↓
+5. Check missing values
+        ↓
+6. Check duplicates
+        ↓
+7. Check inconsistent values
+        ↓
+8. Remove extra spaces
+        ↓
+9. Fix data types
+        ↓
+10. Handle missing values
+        ↓
+11. Remove invalid data
+        ↓
+12. Verify cleaned data
+        ↓
+13. Save cleaned Excel file
