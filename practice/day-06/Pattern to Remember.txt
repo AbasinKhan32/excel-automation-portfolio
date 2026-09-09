@@ -1,0 +1,11 @@
+Find files
+    ↓
+Loop through files
+    ↓
+Read Excel
+    ↓
+Modify data
+    ↓
+Save result
+    ↓
+Next file
